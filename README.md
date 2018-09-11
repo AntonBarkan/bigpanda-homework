@@ -6,10 +6,10 @@
 
 ## Build
 from project root folder
-###Linux/Mac
+### Linux/Mac
  - ./mvnw clean install
  
-###Windows
+### Windows
  - ./mvnw.cmd clean install
  
 ## Run
